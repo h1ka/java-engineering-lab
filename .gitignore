@@ -1,0 +1,7 @@
+**/target/
+jcstress-results-*.bin.gz
+.idea/
+*.iml
+.classpath
+.project
+.settings/
